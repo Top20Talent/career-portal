@@ -1,1 +1,19 @@
 /* add custom CSS here */
+.header-logo {
+    position: absolute;
+    height: 80px;
+    top: -15px;
+  }
+
+.header-titles h1 {
+  display: none !important;
+}
+
+header {
+  background: #fff !important;
+  border-bottom: 1px solid #ccc !important;
+}
+
+.credits {
+  display: none !important;
+}
